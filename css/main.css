@@ -200,25 +200,25 @@ h6 {
   margin: 30px 0 15px;
 }
 h1 {
-  font-size: 1.3em;font-family:"Arial","Helvetica", "Lucida Family",  sans-serif, serif;
+  font-size: 1.3em;margin: 10px;font-family:"Arial","Helvetica", "Lucida Family",  sans-serif, serif;
 }
 h2 {
-  font-size: 1.0em;line-height:22px;font-family:"Georgia", "Times New Roman", serif, sans-serif;font-weight: bold;
+  font-size: 1.0em;margin: 10px;line-height:22px;font-family:"Georgia", "Times New Roman", serif, sans-serif;font-weight: bold;
 }
 h3 {
-  font-size: 0.9em;margin: 15px;line-height:22px;font-family:"Century","Georgia", "Times New Roman", serif, sans-serif;
+  font-size: 0.9em;margin: 10px;line-height:22px;font-family:"Century","Georgia", "Times New Roman", serif, sans-serif;
 }
 h4 {
-  font-size: 0.9em;margin: 0 auto;line-height:22px;font-family:"Georgia", "Times New Roman", serif, sans-serif;font-weight: bold;
+  font-size: 0.9em;margin: 10px;line-height:22px;font-family:"Georgia", "Times New Roman", serif, sans-serif;font-weight: bold;
 }
 h5 {
-  font-size: 0.8em;margin: 0 auto;line-height:22px; font-style: italic; font-family:"Bookman Old Style","Century","Georgia", serif, sans-serif;font-weight:normal;
+  font-size: 0.8em;margin: 10px;line-height:22px; font-style: italic; font-family:"Bookman Old Style","Century","Georgia", serif, sans-serif;font-weight:normal;
 }
 h6 {
-  font-size: 0.8em;margin: 0 auto;line-height:22px; font-style: italic; font-family:"Cambria","Times New Roman","Century","Georgia", serif, sans-serif;
+  font-size: 0.8em;margin: 10px;line-height:22px; font-style: italic; font-family:"Cambria","Times New Roman","Century","Georgia", serif, sans-serif;
 }
 p {
-  font-size: 0.8em;margin: 0 auto;line-height:22px; font-family:"Times New Roman", "Georgia", serif, sans-serif;
+  font-size: 0.8em;margin: 10px;line-height:22px; font-family:"Times New Roman", "Georgia", serif, sans-serif;
 }
 a {
   border-bottom: 1px solid #999;
