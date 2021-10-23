@@ -210,16 +210,16 @@ h3 {
   font-size: 1.25em;
 }
 h4 {
-  font-size: 1.125em;
+  font-size: 1.125em;margin: 0 auto;line-height:22px;font-family:"Arial","Helvetica", "Lucida Family",  sans-serif, serif;
 }
 h5 {
-  font-size: 0.9em;margin: 0 auto;line-height:22px;font-family:"Arial","Helvetica", "Lucida Family",  sans-serif, serif;
+  font-size: 0.9em;margin: 0 auto;line-height:22px;font-family:"Georgia", "Times New Roman", serif, sans-serif;
 }
 h6 {
-  font-size: 0.8em;margin: 0 auto;line-height:22px; font-family:"Georgia", "Times New Roman", serif, sans-serif;
+  font-size: 0.8em;margin: 0 auto;line-height:22px; font-style: italic; font-family:"Century","Cambria","Georgia", "Times New Roman", serif, sans-serif;
 }
 p {
-  font-size: 0.7em;margin: 0 auto;line-height:22px; font-family:"Times New Roman", "Georgia", serif, sans-serif;
+  font-size: 0.8em;margin: 0 auto;line-height:22px; font-family:"Times New Roman", "Georgia", serif, sans-serif;
 }
 a {
   border-bottom: 1px solid #999;
