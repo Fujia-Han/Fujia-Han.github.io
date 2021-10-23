@@ -2674,3 +2674,11 @@ ul.breadcrumb li:last-child {
     margin-bottom: 10px;
   }
 }
+
+.right{
+    float:right;
+}
+
+.left{
+    float:left;
+}
