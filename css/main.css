@@ -67,7 +67,7 @@ li img {
     position: relative;
     width: 100%;
     top: 50%;/*li高度的一半*/
-    transform: translateY(-50%); /*再向上移动自身的50%*/
+    transform: translateY(-10%); /*再向上移动自身的50%*/
 }
 
 .clearfix:after{
