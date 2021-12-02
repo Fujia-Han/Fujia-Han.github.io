@@ -47,7 +47,7 @@ pre {
   font-size: 1em; /* 2 */
 }
 
-li {
+li.museum {
     list-style: none;
     float: left;
     width: 33.3%;/*三列图片排列*/
