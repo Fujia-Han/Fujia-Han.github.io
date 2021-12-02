@@ -50,7 +50,7 @@ pre {
 li {
     list-style: none;
     float: left;
-    width: 33.3%;/*三列图片排列*/
+    hight:100px;
 }
 
 li img {
