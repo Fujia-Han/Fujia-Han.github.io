@@ -50,13 +50,16 @@ pre {
 li.museum {
     list-style: none;
     float: left;
-    width: 33.3%;/*三列图片排列*/
+    width: 20%,40%,40%;/*三列图片排列*/
     height: 100px;/*当图片尺寸不一的时候，设置一个高度*/
     overflow: hidden;/*超出隐藏*/
 }
 
 li img {
+    position: relative;
     width: 100%;
+    top: 50%;/*li高度的一半*/
+    transform: translateY(-50%); /*再向上移动自身的50%*/
 }
 
 a {
