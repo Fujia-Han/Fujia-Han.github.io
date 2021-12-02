@@ -50,7 +50,9 @@ pre {
 li {
     list-style: none;
     float: left;
-    hight:100px;
+    width: 33.3%;/*三列图片排列*/
+    height: 100px;/*当图片尺寸不一的时候，设置一个高度*/
+    overflow: hidden;/*超出隐藏*/
 }
 
 li img {
