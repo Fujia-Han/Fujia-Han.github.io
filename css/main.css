@@ -47,11 +47,19 @@ pre {
   font-size: 1em; /* 2 */
 }
 
-li.museum {
+li.museum1 {
     list-style: none;
     float: left;
-    width: 20%,40%,40%;/*三列图片排列*/
-    height: 500px;/*当图片尺寸不一的时候，设置一个高度*/
+    width: 20%;/*三列图片排列*/
+    height: 300px;/*当图片尺寸不一的时候，设置一个高度*/
+    overflow: hidden;/*超出隐藏*/
+}
+
+li.museum2 {
+    list-style: none;
+    float: left;
+    width: 40%;/*三列图片排列*/
+    height: 300px;/*当图片尺寸不一的时候，设置一个高度*/
     overflow: hidden;/*超出隐藏*/
 }
 
@@ -60,6 +68,16 @@ li img {
     width: 100%;
     top: 50%;/*li高度的一半*/
     transform: translateY(-50%); /*再向上移动自身的50%*/
+}
+
+.clearfix:after{
+    position: relative;
+    content: '';
+    display: block;
+    width: 0;
+    height: 0;
+    visibility: hidden;
+    clear: both;
 }
 
 a {
