@@ -51,7 +51,7 @@ li.museum1 {
     list-style: none;
     float: left;
     width: 20%;/*三列图片排列*/
-    height: 300px;/*当图片尺寸不一的时候，设置一个高度*/
+    height: 100px;/*当图片尺寸不一的时候，设置一个高度*/
     overflow: hidden;/*超出隐藏*/
 }
 
@@ -59,7 +59,7 @@ li.museum2 {
     list-style: none;
     float: left;
     width: 40%;/*三列图片排列*/
-    height: 300px;/*当图片尺寸不一的时候，设置一个高度*/
+    height: 100px;/*当图片尺寸不一的时候，设置一个高度*/
     overflow: hidden;/*超出隐藏*/
 }
 
